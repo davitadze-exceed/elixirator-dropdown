@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter snapshot renders 1`] = `
+<div
+  className="dropdown-root"
+>
+  <button
+    onClick={[Function]}
+  >
+    Dropdown
+  </button>
+</div>
+`;
+
+exports[`Dropdown snapshot renders 1`] = `
+<div
+  className="dropdown-root"
+>
+  <button
+    onClick={[Function]}
+  >
+    Dropdown
+  </button>
+</div>
+`;

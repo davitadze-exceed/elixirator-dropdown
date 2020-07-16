@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App snapshot renders 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="dropdown-root"
+  >
+    <button
+      onClick={[Function]}
+    >
+      Dropdown
+    </button>
+  </div>
+</div>
+`;

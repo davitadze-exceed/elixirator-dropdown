@@ -1,0 +1,23 @@
+.dropdown-root {
+	display: flex;
+	flex-direction: column;
+	width: 200px;
+}
+
+.dropdown-root input {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.dropdown-container {
+	height: 200px;
+	overflow: auto;
+}
+
+.dropdown-option {
+	cursor: pointer;
+}
+
+.dropdown-option:hover {
+	background-color: gray;
+}
